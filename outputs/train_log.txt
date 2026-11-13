@@ -1,0 +1,42 @@
+  epoch 1 step 0/642 loss 0.6982 | 4s
+  epoch 1 step 50/642 loss 0.7106 | 77s
+  epoch 1 step 100/642 loss 0.7211 | 159s
+  epoch 1 step 150/642 loss 0.6055 | 238s
+  epoch 1 step 200/642 loss 0.6743 | 325s
+  epoch 1 step 250/642 loss 0.7498 | 405s
+  epoch 1 step 300/642 loss 0.6709 | 495s
+  epoch 1 step 350/642 loss 0.6885 | 557s
+  epoch 1 step 400/642 loss 0.6730 | 615s
+  epoch 1 step 450/642 loss 0.7687 | 681s
+  epoch 1 step 500/642 loss 0.8105 | 743s
+  epoch 1 step 550/642 loss 0.6240 | 800s
+  epoch 1 step 600/642 loss 0.6326 | 867s
+EPOCH 1 val_acc=0.6410 val_f1=0.6338
+  epoch 2 step 0/642 loss 0.6380 | 940s
+  epoch 2 step 50/642 loss 0.5862 | 1003s
+  epoch 2 step 100/642 loss 0.7523 | 1059s
+  epoch 2 step 150/642 loss 0.6479 | 1125s
+  epoch 2 step 200/642 loss 0.7031 | 1180s
+  epoch 2 step 250/642 loss 0.6907 | 1235s
+  epoch 2 step 300/642 loss 0.8087 | 1328s
+  epoch 2 step 350/642 loss 0.5640 | 1444s
+  epoch 2 step 400/642 loss 0.7138 | 1529s
+  epoch 2 step 450/642 loss 0.6805 | 1602s
+  epoch 2 step 500/642 loss 0.5171 | 1674s
+  epoch 2 step 550/642 loss 0.7679 | 1741s
+  epoch 2 step 600/642 loss 0.5834 | 1807s
+EPOCH 2 val_acc=0.6565 val_f1=0.6483
+  epoch 3 step 0/642 loss 0.4455 | 1893s
+  epoch 3 step 50/642 loss 0.4015 | 1976s
+  epoch 3 step 100/642 loss 0.3382 | 2038s
+  epoch 3 step 150/642 loss 0.3900 | 2094s
+  epoch 3 step 200/642 loss 0.5003 | 2160s
+  epoch 3 step 250/642 loss 0.3014 | 2254s
+  epoch 3 step 300/642 loss 0.2879 | 2360s
+  epoch 3 step 350/642 loss 0.7394 | 2436s
+  epoch 3 step 400/642 loss 0.4655 | 2542s
+  epoch 3 step 450/642 loss 0.3756 | 2643s
+  epoch 3 step 500/642 loss 0.6954 | 2723s
+  epoch 3 step 550/642 loss 0.4575 | 2794s
+  epoch 3 step 600/642 loss 0.4638 | 2876s
+EPOCH 3 val_acc=0.6526 val_f1=0.6505

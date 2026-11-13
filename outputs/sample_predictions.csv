@@ -1,0 +1,7 @@
+statement,label,y,pred,p_real
+Says state Sen. Sheila Harsdorf wants to eliminate Medicare as we know it.,pants-fire,0,0,0.11644431
+"As a prosecutor, Wisconsin Supreme Court Justice David Prosser did not investigate or file charges in a case involving 30-year pedophile priest, then participated in cover-up.",barely-true,0,0,0.30801985
+Says Houstons 18th congressional district has been gentrified and is home to more Anglos than African Americans.,false,0,1,0.72713137
+"About 106,000 soldiers had a prescription of three weeks or more for pain, depression or anxiety medication.",true,1,1,0.8830296
+Says shes never said dont build Texas 45 Southwest.,half-true,1,0,0.35515812
+"If the sequester hits, federal prosecutors will have to let criminals go.",barely-true,0,0,0.24205118

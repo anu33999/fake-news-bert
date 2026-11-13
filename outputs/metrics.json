@@ -1,0 +1,46 @@
+{
+  "results": {
+    "BERT (fine-tuned)": {
+      "accuracy": 0.6586,
+      "precision_macro": 0.6513,
+      "recall_macro": 0.648,
+      "f1_macro": 0.6489,
+      "roc_auc": 0.7054
+    },
+    "Majority class": {
+      "accuracy": 0.5666,
+      "precision_macro": 0.2833,
+      "recall_macro": 0.5,
+      "f1_macro": 0.3617
+    },
+    "TF-IDF + LogReg": {
+      "accuracy": 0.6524,
+      "precision_macro": 0.6462,
+      "recall_macro": 0.6463,
+      "f1_macro": 0.6462,
+      "roc_auc": 0.7091
+    }
+  },
+  "acc_by_label": {
+    "pants-fire": 0.75,
+    "false": 0.556,
+    "barely-true": 0.5047,
+    "half-true": 0.6292,
+    "mostly-true": 0.7831,
+    "true": 0.7867
+  },
+  "confusion_matrix": [
+    [
+      316,
+      240
+    ],
+    [
+      198,
+      529
+    ]
+  ],
+  "params_total": 109483778,
+  "best_val_f1": 0.6505282377753476,
+  "train_minutes": 50.2,
+  "device": "mps"
+}
